@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a software engineer based in Galway, Ireland
+
+![John's github stats](https://github-readme-stats.vercel.app/api?username=joreilly&theme=dracula&show_icons=true&count_private=true)
+
 <!--
 **joreilly/joreilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
