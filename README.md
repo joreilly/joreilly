@@ -2,7 +2,7 @@
 
 I'm a software engineer based in Galway, Ireland 🇮🇪 and working for [Neat](https://twitter.com/neat_no) 🇳🇴
 
-## Some more backgrounds
+## Some more background
 - Working professionally as hands-on software engineer for 30 years (and as hobby for about 6 years before that!).  
 - Developing for Android since 2010 (using Kotlin for last 3 years).
 - Keenly interested in world of Kotlin Multiplatform!  Have given a number of talks and written various articles on the topic over last 2 years (https://johnoreilly.dev/). Have also created a number of related samples/templates which are hosted here.
