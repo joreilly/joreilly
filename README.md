@@ -5,7 +5,7 @@ I'm a software engineer based in Galway, Ireland 🇮🇪 and working for [Neat]
 ## Some more background
 - Working professionally as hands-on software engineer for 30 years (and as hobby for about 6 years before that!).  
 - Developing for Android since 2010 (using Kotlin for last 3 years).
-- Keenly interested in Kotlin Multiplatform and, in particular, when combined with use of Declarative UI frameworks like Jetpack Compose and SwiftUI! Have given a number of talks and written various articles on the topic over last 2 years (johnoreilly.dev). Have also created a number of related samples/templates. One of these, PeopleInSpace, was included in Kotlin KMM docs.
+- Keenly interested in Kotlin Multiplatform and, in particular, when combined with use of Declarative UI frameworks like Jetpack Compose and SwiftUI! Have given a number of talks and written various articles on the topic over last 2 years [johnoreilly.dev](johnoreilly.dev). Have also created a number of related samples/templates. One of these, PeopleInSpace, was included in Kotlin KMM docs.
 
 
 
