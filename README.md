@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer based in Galway, Ireland 🇮🇪 and working for [Neat](https://twitter.com/neat_no) 🇳🇴
+I'm a software engineer based in Galway, Ireland 🇮🇪 and working for [Neat](https://twitter.com/neat_no) 🇳🇴. GDE for Kotlin.
 
 ## Some more background
 - Working professionally as hands-on software engineer for 30 years (and as hobby for about 6 years before that!).  
