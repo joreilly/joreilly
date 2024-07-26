@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer based in Galway, Ireland 🇮🇪 and working for [Neat](https://twitter.com/neatmeetings) 🇳🇴. Google Developer Expert for Kotlin.
+I'm a software engineer based in Galway, Ireland 🇮🇪. Google Developer Expert for Kotlin.
 
 ## Some more background
 - Extensive experience working as a hands-on software engineer on mobile, desktop, server and embedded applicaitons.
