@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer based in Galway, Ireland 🇮🇪 and working remotely for Kraken Technology. Google Developer Expert for Kotlin.
+I'm a software engineer based in Galway, Ireland 🇮🇪 and working remotely for Kraken Tech (part of Octopus Energy Group). Also Google Developer Expert (GDE) for Kotlin.
 
 ## Some more background
 - Extensive experience working as a hands-on software engineer on mobile, desktop, server and embedded applicaitons.
